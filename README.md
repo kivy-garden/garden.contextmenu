@@ -1,3 +1,5 @@
+# NOTE: THIS REPO IS UNMAINTAINED, THIS FLOWER HAS BEEN PORTED TO NEW INFRASTRUCTURE, PLEASE USE <https://github.com/kivy-garden/contextmenu>
+
 # garden.contextmenu
 
 Collection of classes for easy creating **context** and **application** menus.
